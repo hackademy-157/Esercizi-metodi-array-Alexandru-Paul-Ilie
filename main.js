@@ -68,11 +68,11 @@
            
 
             if (inverso === nospace) {
-                console.log(True);
+                return "True";
                  
                 
             } else {
-                console.log(False);
+                return "False";
                
                 
             }
